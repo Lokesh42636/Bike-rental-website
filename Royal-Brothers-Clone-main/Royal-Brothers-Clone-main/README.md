@@ -1,13 +1,7 @@
-Netlify Deployes Link - [Royal Brothers](https://royal-brothers.netlify.app)
 
 ## Problem Statement
 <br>
 Our Problem statement is to build a pixel-perfect clone of the Royal Brothers Website. Previously we did a clone of a few web pages but in this problem, we were supposed to make pages dynamic.
-
-
-## Idea
-
-Since I'm pursuing a Full Stack Web Development course at Masai School I was given a project to clone a bike rental and e-commerce website Royal Brothers.  I was given a team of three members including me and the task was to clone the pixel-perfect clone of the website. Let's look at how we designed it 👇
 
 ## Home-Page
 ![ffeKuAHn8](https://user-images.githubusercontent.com/107247913/177038413-9ca36ba4-412a-4c35-9174-2bb2bdfea339.png)
@@ -107,11 +101,6 @@ After SignIn view of Home-Page
 
 
 <br>
-
-## Team Members
-> ### •[Ayush Kumar](https://github.com/ayush-kr05)
-> ### •[Akram](https://github.com/akram3598786/)
-> ### • [Ayesha Amreen](https://github.com/amreen77)
 
 
 ## Technology Used
